@@ -1,2 +1,6 @@
 day la test 1
+<<<<<<< ours
 day la test 1 cua main 2
+=======
+day la test 1 cua main
+>>>>>>> theirs
